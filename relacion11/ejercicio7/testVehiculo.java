@@ -69,7 +69,7 @@ public class testVehiculo {
                 default:
                     System.out.println("Opción no válida. Intente de nuevo.");
             }
-        } while (opcion != 10);
+        } while (opcion != 11);
 
         entrada.close();
     }
