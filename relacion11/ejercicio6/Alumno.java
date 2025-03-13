@@ -1,8 +1,8 @@
 package relacion11.ejercicio6;
 
 public class Alumno extends Persona {
-    protected String grupo;
-    protected double notaMedia;
+    protected String grupo="1º DAW";
+    protected double notaMedia=5.5d;
 
     // Método getGrupo
     public String getGrupo (){
@@ -26,6 +26,6 @@ public class Alumno extends Persona {
 
     //metodo abstracto
     public void Mostrar(){
-        System.out.println();
+        System.out.println("El grupo del alumno es: "+grupo+" y su nota media: "+notaMedia);
     }    
 }

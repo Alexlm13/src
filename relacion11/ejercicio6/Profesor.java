@@ -1,8 +1,8 @@
 package relacion11.ejercicio6;
 
 public class Profesor extends Persona {
-    String especialidad;
-    double salario;
+    String especialidad="Matemáticas avanzadas";
+    double salario=4000.0d;
 
     // Método getEspecialidad
     public String getEspecialidad (){
@@ -25,6 +25,6 @@ public class Profesor extends Persona {
     }
 
     public void Mostrar(){
-        System.out.println();
+        System.out.println("El profesor esta especializado en: "+especialidad+" y cobra al año: "+salario+" Euros.");
     }
 }
