@@ -1,4 +1,4 @@
-package relacion11.Objetos.ejemplos;
+package relacion12.ejemplos;
 import java.util.*;
 
 public class ejemplo2 {
