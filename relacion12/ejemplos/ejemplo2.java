@@ -31,5 +31,7 @@ public class ejemplo2 {
 
         System.out.println("La suma de los números: "+suma);
         System.out.println("la media de los números es: "+suma/numeros.size());
+
+        entrada.close();
     }
 }
