@@ -70,4 +70,12 @@ public class Articulo {
         System.out.println("Precio de venta: "+precioVenta);
         System.out.println("Stock: "+stock);
     }
+
+    @Override
+    public String toString(){
+        return "Código: "+codigo+" | Descripción: "+descripcion+
+        " | Precio Compra: "+precioCompra+
+        " | Precio Venta: "+precioVenta+
+        " | Stock: "+stock;
+    }
 }
