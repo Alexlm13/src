@@ -9,9 +9,8 @@ public class AlmArticulo {
         listaArticulos=new ArrayList<>();
     }
 
-    public almacena(Articulo articulo){
+    public void almacena(Articulo articulo){
         listaArticulos.add(articulo);
     }
-
 
 }
