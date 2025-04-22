@@ -1,4 +1,4 @@
-package Ejercicio3;
+package Examen.Ejercicio3;
 public abstract class Vehiculo {
     private String matricula, marca, modelo;
     protected long kmRecorridos;

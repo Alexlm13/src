@@ -1,4 +1,4 @@
-package Ejercicio3;
+package Examen.Ejercicio3;
 public abstract class Turismo extends Vehiculo {
     private String color;
     private int nPuertas, nPlazas;

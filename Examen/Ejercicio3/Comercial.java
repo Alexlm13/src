@@ -1,4 +1,4 @@
-package Ejercicio3;
+package Examen.Ejercicio3;
 public abstract class Comercial extends Vehiculo{
     private int cargaMax;
     private double volumen;

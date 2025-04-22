@@ -1,4 +1,4 @@
-package Ejercicio3;
+package Examen.Ejercicio3;
 public class Camion {
     boolean volquete;
     boolean cerrado;

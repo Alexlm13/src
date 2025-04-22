@@ -1,4 +1,4 @@
-package Ejercicio3;
+package Examen.Ejercicio3;
 
 import java.util.ArrayList;
 
