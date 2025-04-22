@@ -1,4 +1,4 @@
-package UD7_Excepciones.relacion13.prueba;
+package UD7_Excepciones.prueba;
 
 public class PruebaAritmetica {
     public static void main(String[] args) {

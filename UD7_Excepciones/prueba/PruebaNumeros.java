@@ -1,4 +1,4 @@
-package UD7_Excepciones.relacion13.prueba;
+package UD7_Excepciones.prueba;
 
 import java.rmi.server.ExportException;
 import java.util.InputMismatchException;

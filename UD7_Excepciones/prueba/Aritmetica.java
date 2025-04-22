@@ -1,4 +1,4 @@
-package UD7_Excepciones.relacion13.prueba;
+package UD7_Excepciones.prueba;
 
 public class Aritmetica {
     public static int division(int dividendo, int divisor) {
