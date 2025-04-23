@@ -13,4 +13,9 @@ public class Ejercicio6 {
             throw exc;
         }
     }
+
+    public static void main(String [] args){
+        double[] v = new double[15];
+        System.out.println(accesoPorIndice(v, 16));
+    }
 }
