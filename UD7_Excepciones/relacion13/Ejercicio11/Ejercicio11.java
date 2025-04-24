@@ -10,7 +10,7 @@ public class Ejercicio11 {
         }
     }
 
-    public static int metodo() throws NumberFormatException {
+    public static int metodo() {
         int valor = 0;
 
         try {
